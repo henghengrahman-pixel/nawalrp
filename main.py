@@ -15,7 +15,7 @@ import aiohttp
 from bs4 import BeautifulSoup
 
 # ================== CONFIG ==================
-TOKEN = os.getenv("BOT_TOKEN", "8311343564:AAGMF3lKzp2TyMptsrosQkGiRHKaP-dQ8TE")
+TOKEN = os.getenv("BOT_TOKEN", "8535353772:AAFdXLPZVayDNPuJtHV4uT6fuksbXqAUsHY")
 ADMIN_IDS = [5397964203, 1293577945, 1781838636, 8472028508, 1623311993, 1849309185, 7230912053, 1623311993 ]
 NAWALA_URL = "https://nawala.in/"
 
